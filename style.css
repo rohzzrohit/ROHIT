@@ -44,3 +44,17 @@ h2
     margin: 5px;
     padding: 10px;
   }}
+
+.project a {
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.project a:hover {
+  background-color: #0056b3;
+}
